@@ -1,4 +1,4 @@
-# project-1# Northwind — Sales & Revenue Analysis
+# project-1  Northwind Dataset ( Sales & Revenue Analysis ) 
 
 Project summary
 - This repository contains an analysis of the Northwind sample database to explore revenue drivers, customer value, product performance, and temporal trends. The goal is to extract business-ready insights (top products, top customers, monthly/quarterly revenue, AOV, RFM segmentation) using SQL, Excel, and Power BI.
